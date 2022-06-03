@@ -6,4 +6,4 @@ When there is high volatility and high trading volumes within the crypto markets
 
 This trading bot takes advantage of these price discrepancies when they exist, by borrowing funds from a flashloan provider (DyDx), executing an abitrage trade, and paying back the loan within the same transaction.     
 
-### Deployed to ethereum mainnet @ contract address: 0xdabec8cd246c47de43dabc16fd088b2c5899cef3
+##### Deployed to ethereum mainnet @address: [0xdabec8cd246c47de43dabc16fd088b2c5899cef3](https://etherscan.io/address/0xdabec8cd246c47de43dabc16fd088b2c5899cef3)
